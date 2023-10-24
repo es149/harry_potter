@@ -1,0 +1,35 @@
+from;to;weight
+Hermine Granger;Harry Potter;3
+Ron Wesley;Hermine Granger;3
+George Wesley;Fred Wesley;3
+Fred Wesley;George Wesley;3
+Hagrid;Harry Potter;3
+Dumbledor;Harry Potter;1
+Snape;Dumbledor;2
+Voldemord;Snape;2
+Draco Malfoy;Snape;2
+Harry Potter;Ron Wesley;3
+Harry Potter;Fred Wesley;2
+Harry Potter;George Wesley;2
+Harry Potter;Hagrid;3
+Harry Potter;Dumbledor;1
+Hermine Granger;Ron Wesley;3
+Hermine Granger;Hagrid;2
+Ron Wesley;Harry Potter;3
+Ron Wesley;George Wesley;3
+Ron Wesley;Fred Wesley;3
+Ron Wesley;Hagrid;2
+George Wesley;Ron Wesley;3
+George Wesley;Harry Potter;2
+Fred Wesley;Harry Potter;2
+Fred Wesley;Ron Wesley;3
+Hagrid;Ron Wesley;2
+Hagrid;Hermine Granger;2
+Hagrid;Dumbledor;3
+Dumbledor;Hagrid;3
+Dumbledor;Snape;2
+Snape;Voldemord;2
+Snape;Draco Malfoy;2
+Voldemord;Draco Malfoy;2
+Draco Malfoy;Voldemord;2
+Harry Potter;Hermine Granger;3
