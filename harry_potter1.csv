@@ -1,0 +1,35 @@
+﻿from,to
+Hermine Granger,Harry Potter
+Ron Wesley,Hermine Granger
+George Wesley,Fred Wesley
+Fred Wesley,George Wesley
+Hagrid,Harry Potter
+Dumbledor,Harry Potter
+Snape,Dumbledor
+Voldemord,Snape
+Draco Malfoy,Snape
+Harry Potter,Ron Wesley
+Harry Potter,Fred Wesley
+Harry Potter,George Wesley
+Harry Potter,Hagrid
+Harry Potter,Dumbledor
+Hermine Granger,Ron Wesley
+Hermine Granger,Hagrid
+Ron Wesley,Harry Potter
+Ron Wesley,George Wesley
+Ron Wesley,Fred Wesley
+Ron Wesley,Hagrid
+George Wesley,Ron Wesley
+George Wesley,Harry Potter
+Fred Wesley,Harry Potter
+Fred Wesley,Ron Wesley
+Hagrid,Ron Wesley
+Hagrid,Hermine Granger
+Hagrid,Dumbledor
+Dumbledor,Hagrid
+Dumbledor,Snape
+Snape,Voldemord
+Snape,Draco Malfoy
+Voldemord,Draco Malfoy
+Draco Malfoy,Voldemord
+Harry Potter,Hermine Granger
